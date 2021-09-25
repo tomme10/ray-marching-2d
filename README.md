@@ -1,4 +1,4 @@
-# rayCasting-Exercise
+# rayCasting
 A simple, efficient ray caster
 
 This program uses pygame, to install run the command:
